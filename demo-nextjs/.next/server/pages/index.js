@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MeetupItem_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./MeetupItem.module.css */ "./components/meetups/MeetupItem.module.css");
 /* harmony import */ var _MeetupItem_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_MeetupItem_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "D:\\Workspace\\Nextjs\\06-onwards-to-a-bigger-project-starting-project\\06-onwards-to-a-bigger-project-starting-project\\components\\meetups\\MeetupItem.js";
+var _jsxFileName = "D:\\Workspace\\Nextjs\\nextjs-first-project\\demo-nextjs\\components\\meetups\\MeetupItem.js";
 
 
 
@@ -222,7 +222,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./MeetupList.module.css */ "./components/meetups/MeetupList.module.css");
 /* harmony import */ var _MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "D:\\Workspace\\Nextjs\\06-onwards-to-a-bigger-project-starting-project\\06-onwards-to-a-bigger-project-starting-project\\components\\meetups\\MeetupList.js";
+var _jsxFileName = "D:\\Workspace\\Nextjs\\nextjs-first-project\\demo-nextjs\\components\\meetups\\MeetupList.js";
 
 
 
@@ -279,7 +279,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Card.module.css */ "./components/ui/Card.module.css");
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Card_module_css__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "D:\\Workspace\\Nextjs\\06-onwards-to-a-bigger-project-starting-project\\06-onwards-to-a-bigger-project-starting-project\\components\\ui\\Card.js";
+var _jsxFileName = "D:\\Workspace\\Nextjs\\nextjs-first-project\\demo-nextjs\\components\\ui\\Card.js";
 
 
 function Card(props) {
@@ -331,7 +331,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_meetups_MeetupList__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/meetups/MeetupList */ "./components/meetups/MeetupList.js");
 
 
-var _jsxFileName = "D:\\Workspace\\Nextjs\\06-onwards-to-a-bigger-project-starting-project\\06-onwards-to-a-bigger-project-starting-project\\pages\\index.js";
+var _jsxFileName = "D:\\Workspace\\Nextjs\\nextjs-first-project\\demo-nextjs\\pages\\index.js";
 
 
 
